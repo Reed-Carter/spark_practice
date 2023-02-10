@@ -170,3 +170,6 @@ Footer navigation
 Terms
 Privacy
 Security
+
+#exclude data folder
+/data
